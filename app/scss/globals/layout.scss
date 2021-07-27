@@ -7,5 +7,6 @@
 
 	@include breakpoint(large) {
 		padding: 0;
+		transform: translate(0, 0);
 	}
 }
